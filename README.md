@@ -4,3 +4,6 @@ This repo hosts the dataset for the open-access paper [A quantitative structureâ
 The [Jupyter notebook]() is on the clustering of molecules based on the sphere-exclusion (as implemented in RdKit) and t-SNE algorithms (as implemented in Scikit-learn).
 
 I used mols2grid for viewing molecules and molplotly for interactive plotting. Check it out:
+
+https://user-images.githubusercontent.com/105816821/229763963-0742d91a-6897-4399-a04f-2e89080a1b4e.mov
+
